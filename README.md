@@ -11,12 +11,13 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 * It's really bad code that I still need to fix or have abandoned!
 
 
-### What has been made public (Oct 17, 2018) ###
+### What has been made public (Oct 18, 2018) ###
 
 * General Information (Please Read!)
 * tokenBotFinal
 * csc299 (Blockchain and Smart Contracts course)
-* csc301 (Data Structures 2)
+* csc300 (Data Structures I)
+* csc301 (Data Structures II)
 * Résumé!
 
 # WHAT I AM NOT RESPONSIBLE FOR #
