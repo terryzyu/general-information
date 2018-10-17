@@ -1,30 +1,29 @@
-# README #
-I'll fix this later
+# Welcome to my Bitbucket! #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+I'm Terry Yu, a student at DePaul University studying Computer Science. Here is where I store code and what you see is what I have made publically available. You are free to use the code however you like. My résumé is also here! It's been modified to omit some personal information so if I sent you one it may look slightly different!
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Code for classes I am currently enrolled in *will not be uploaded until I have received my final grade for the course.* Additionally, some code or courses will not be uploaded due to one or more of the following reasons.
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* I was taught git during my second year, some first year material may not be here.
+* The class only required a small amount of code thus I do not believe it's worthwhile to upload.
+* It's really bad code that I still need to fix or have abandoned!
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+### What has been made public (Oct 17, 2018) ###
 
-### Who do I talk to? ###
+* General Information (Please Read!)
+* tokenBotFinal
+* csc299 (Blockchain and Smart Contracts course)
+* csc301 (Data Structures 2)
+* Résumé!
 
-* Repo owner or admin
-* Other community or team contact
+# WHAT I AM NOT RESPONSIBLE FOR #
+
+* You using my code and getting caught cheating in class.
+	+ You may refer to my code as a guide however I am not endorsing copy pasting directly. My code may even be wrong!
+* Ongoing support of my code.
+
+
+# Thank you for reading and enjoy browsing around! #
