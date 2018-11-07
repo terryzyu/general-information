@@ -13,7 +13,7 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 
 ### What has been made public (Oct 18, 2018) ###
 
-* General Information (Please Read!)
+* General Information
 * tokenBotFinal
 * csc299 (Blockchain and Smart Contracts course)
 * csc300 (Data Structures I)
