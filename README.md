@@ -7,7 +7,7 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 
 
 * I was taught git during my second year, some first year material may not be here.
-* The class only required a small amount of code thus I do not believe it's worthwhile to upload.
+* The class only required a small amount of code rather than full assignments.
 * It's really bad code that I still need to fix or have abandoned!
 
 
@@ -17,6 +17,9 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 * csc299 (Blockchain and Smart Contracts course)
 * csc300 (Data Structures I)
 * csc301 (Data Structures II)
+* csc347 (Programming Language Concepts)
+* csc355 (Database Systems)
+* csc374 (Computer Systems II)
 * tokenBotFinal
 * DemonHacks 2018
 * Résumé!
