@@ -11,7 +11,7 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 * It's really bad code that I still need to fix or have abandoned!
 
 
-### What has been made public (Dec 16, 2018) ###
+### What has been made public (Jan 03, 2019) ###
 
 * General Information
 * csc299 (Blockchain and Smart Contracts course)
@@ -21,6 +21,7 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 * csc355 (Database Systems)
 * csc374 (Computer Systems II)
 * tokenBotFinal
+* Steam Wishlister
 * DemonHacks 2018
 * Résumé!
 
