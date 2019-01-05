@@ -11,7 +11,7 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 * It's really bad code that I still need to fix or have abandoned!
 
 
-### What has been made public (Jan 03, 2019) ###
+### What has been made public (Jan 04, 2019) ###
 
 * General Information
 * csc299 (Blockchain and Smart Contracts course)
