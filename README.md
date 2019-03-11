@@ -26,7 +26,7 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 * Résumé!
 * Transcript (see below)
 
-### Transcript ###
+### Transcript (Ask for formal unofficial transcript) ###
 
 **Institution**|**Code (DePaul)**|**Name**|**Grade**|**Year/Quarter taken**
 :-----:|:-----:|:-----:|:-----:|:-----:
