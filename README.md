@@ -70,7 +70,7 @@ UIUC|ANT TR110|Intro to Anthropology|D|Transferred, 2015-2016
 # WHAT I AM NOT RESPONSIBLE FOR #
 
 * You using my code and getting caught cheating in class. It's only here for jobs to review. 
-	+ You may refer to my code as a guide however I am not endorsing copy pasting directly. My code may even be wrong!
+	+ You may refer to my code as a guide however I am not endorsing copy pasting directly. Some code may even be wrong! (It most definitely is)
 * Ongoing support of my code. Most of these are assignments or little projects for me to learn.
 
 
