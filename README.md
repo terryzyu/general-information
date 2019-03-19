@@ -1,6 +1,7 @@
 # Welcome to my Github! #
 
 (I will be going through and adding descriptions, additional classes, between 3/18-3/25)
+
 I'm Terry Yu, a student at DePaul University studying Computer Science. Here is where I store code and what you see is what I have made publically available. You are free to use the code however you like. My résumé is also here! It's been modified to omit some personal information so if I sent you one it may look slightly different!
 
 
