@@ -1,5 +1,6 @@
 # Welcome to my Github! #
 
+(I will be going through and adding descriptions, additional classes, between 3/18-3/25)
 I'm Terry Yu, a student at DePaul University studying Computer Science. Here is where I store code and what you see is what I have made publically available. You are free to use the code however you like. My résumé is also here! It's been modified to omit some personal information so if I sent you one it may look slightly different!
 
 
@@ -30,6 +31,10 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 
 **Institution**|**Code (DePaul)**|**Name**|**Grade**|**Year/Quarter taken**
 :-----:|:-----:|:-----:|:-----:|:-----:
+DePaul|CSC 348|Intro to Compiler Design|Scheduled|SP 18-19
+DePaul|CSC 352|Database Programming|Scheduled|SP 18-19
+DePaul|CSC 379|Tech Partnerships in URB SCHLS|Scheduled|SP 18-19
+DePaul|CSC 394|Software Projects|Scheduled|SP 18-19
 DePaul|CSC 321|Design/Analysis Algorithms|In Progress|WN 18-19
 DePaul|CSC 376|Distributed Systems|In Progress|WN 18-19
 DePaul|LSP 200|Multiculturalism Seminar|In Progress|WN 18-19
