@@ -32,6 +32,7 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 
 **Institution**|**Code (DePaul)**|**Name**|**Grade**|**Year/Quarter taken**
 :-----:|:-----:|:-----:|:-----:|:-----:
+DePaul|CSC 360|Web Applications|Scheduled|SP 18-19
 DePaul|CSC 348|Intro to Compiler Design|Scheduled|SP 18-19
 DePaul|CSC 352|Database Programming|Scheduled|SP 18-19
 DePaul|CSC 379|Tech Partnerships in URB SCHLS|Scheduled|SP 18-19
