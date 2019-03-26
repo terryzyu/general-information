@@ -37,9 +37,9 @@ DePaul|CSC 348|Intro to Compiler Design|Scheduled|SP 18-19
 DePaul|CSC 352|Database Programming|Scheduled|SP 18-19
 DePaul|CSC 379|Tech Partnerships in URB SCHLS|Scheduled|SP 18-19
 DePaul|CSC 394|Software Projects|Scheduled|SP 18-19
-DePaul|CSC 321|Design/Analysis Algorithms|A|WN 18-19
+DePaul|CSC 321|Design/Analysis Algorithms|B+|WN 18-19
 DePaul|CSC 376|Distributed Systems|A|WN 18-19
-DePaul|LSP 200|Multiculturalism Seminar (Rhetoric of U.S. Feminisms)|B+|WN 18-19
+DePaul|LSP 200|Multicultural Seminar (Rhetoric of U.S. Feminisms)|B+|WN 18-19
 DePaul|SE 333|Software Testing|In Progress|WN 18-19
 DePaul|SE 350|Object-Oriented Software Development|A|WN 18-19
 DePaul|CSC 347|Program Language Concepts|B+|FA 18-19
