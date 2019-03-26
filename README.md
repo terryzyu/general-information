@@ -13,7 +13,7 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 * It's really bad code that I still need to fix or have abandoned!
 
 
-### What has been made public (Jan 04, 2019) ###
+### What has been made public (Mar 26, 2019) ###
 
 * General Information
 * csc299 (Blockchain and Smart Contracts course)
@@ -22,9 +22,12 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 * csc347 (Programming Language Concepts)
 * csc355 (Database Systems)
 * csc374 (Computer Systems II)
+* csc376 (Distributed Systems)
+* se350 (Object-Oriented Software Development)
 * tokenBotFinal
 * Steam Wishlister
 * DemonHacks 2018
+* HackIllinois 2019
 * Résumé!
 * Transcript (see below)
 
@@ -40,7 +43,7 @@ DePaul|CSC 394|Software Projects|Scheduled|SP 18-19
 DePaul|CSC 321|Design/Analysis Algorithms|B+|WN 18-19
 DePaul|CSC 376|Distributed Systems|A|WN 18-19
 DePaul|LSP 200|Rhetoric of U.S. Feminisms|B+|WN 18-19
-DePaul|SE 333|Software Testing|In Progress|WN 18-19
+DePaul|SE 333|Software Testing|Awaiting Grade|WN 18-19
 DePaul|SE 350|Object-Oriented Software Development|A|WN 18-19
 DePaul|CSC 347|Program Language Concepts|B+|FA 18-19
 DePaul|CSC 355|Database Systems|A|FA 18-19
