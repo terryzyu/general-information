@@ -33,11 +33,11 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 
 **Institution**|**Code (DePaul)**|**Name**|**Grade**|**Year/Quarter taken**
 :-----:|:-----:|:-----:|:-----:|:-----:
-DePaul|CSC 360|Web Applications|Scheduled|SP 18-19
-DePaul|CSC 348|Intro to Compiler Design|Scheduled|SP 18-19
-DePaul|CSC 352|Database Programming|Scheduled|SP 18-19
-DePaul|CSC 379|Tech Partnerships in URB SCHLS|Scheduled|SP 18-19
-DePaul|CSC 394|Software Projects|Scheduled|SP 18-19
+DePaul|CSC 360|Web Applications|In Progress|SP 18-19
+DePaul|CSC 348|Intro to Compiler Design|In Progress|SP 18-19
+DePaul|CSC 352|Database Programming|In Progress|SP 18-19
+DePaul|CSC 379|Tech Partnerships in URB SCHLS|In Progress|SP 18-19
+DePaul|CSC 394|Software Projects|In Progress|SP 18-19
 DePaul|CSC 321|Design/Analysis Algorithms|B+|WN 18-19
 DePaul|CSC 376|Distributed Systems|A|WN 18-19
 DePaul|LSP 200|Rhetoric of U.S. Feminisms|B+|WN 18-19
