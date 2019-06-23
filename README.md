@@ -1,6 +1,6 @@
 # Welcome to my Github! #
 
-I'm Terry Yu, a student at DePaul University studying Computer Science. Here is where I store code and what you see is what I have made publically available. You are free to use the code however you like. My résumé is also here! It's been modified to omit some personal information so if I sent you one it may look slightly different!
+I'm Terry Yu, graduated from DePaul University with a B.S. in Computer Science with a Software Development focus. Here is where I store code and what you see is what I have made publically available. You are free to use the code however you like. My résumé is also here! It's been modified to omit some personal information so if I sent you one it may look slightly different. I'm also looking for a job!
 
 
 Code for classes I am currently enrolled in *will not be uploaded until I have received my final grade for the course.* Additionally, some code or courses will not be uploaded due to one or more of the following reasons.
@@ -8,13 +8,12 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 
 * I was taught git during my second year, some first year material may not be here.
 * The class only required a small amount of code rather than full assignments.
-* It's really bad code that I still need to fix or have abandoned!
 
 
 ### What has been made public (Jun 23, 2019) ###
 
 * General Information
-* csc299 (Blockchain and Smart Contracts course)
+* csc299 (Blockchain and Smart Contracts)
 * csc300 (Data Structures I)
 * csc301 (Data Structures II)
 * csc347 (Programming Language Concepts)
@@ -34,7 +33,7 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 
 ### Transcript (Ask for formal unofficial transcript) ###
 
-**Institution**|**Code (DePaul)**|**Name**|**Grade**|**Year/Quarter taken**
+**Institution**|**Code (DePaul)**|**Name**|**Grade**|**Quarter/Year taken**
 :-----:|:-----:|:-----:|:-----:|:-----:
 DePaul|REL 109|The Jewish Experience|In Progress|SU 18-19
 DePaul|CSC 360|Web Applications|A|SP 18-19
