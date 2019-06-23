@@ -11,14 +11,17 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 * It's really bad code that I still need to fix or have abandoned!
 
 
-### What has been made public (Mar 26, 2019) ###
+### What has been made public (Jun 23, 2019) ###
 
 * General Information
 * csc299 (Blockchain and Smart Contracts course)
 * csc300 (Data Structures I)
 * csc301 (Data Structures II)
 * csc347 (Programming Language Concepts)
+* csc348 (Intro to Compiler Design)
+* csc352 (Database Programming)
 * csc355 (Database Systems)
+* csc360 (Web Applications)
 * csc374 (Computer Systems II)
 * csc376 (Distributed Systems)
 * se350 (Object-Oriented Software Development)
@@ -33,11 +36,12 @@ Code for classes I am currently enrolled in *will not be uploaded until I have r
 
 **Institution**|**Code (DePaul)**|**Name**|**Grade**|**Year/Quarter taken**
 :-----:|:-----:|:-----:|:-----:|:-----:
-DePaul|CSC 360|Web Applications|In Progress|SP 18-19
-DePaul|CSC 348|Intro to Compiler Design|In Progress|SP 18-19
-DePaul|CSC 352|Database Programming|In Progress|SP 18-19
-DePaul|CSC 379|Tech Partnerships in URB SCHLS|In Progress|SP 18-19
-DePaul|CSC 394|Software Projects|In Progress|SP 18-19
+DePaul|REL 109|The Jewish Experience|In Progress|SU 18-19
+DePaul|CSC 360|Web Applications|A|SP 18-19
+DePaul|CSC 348|Intro to Compiler Design|A|SP 18-19
+DePaul|CSC 352|Database Programming|A|SP 18-19
+DePaul|CSC 379|Tech Partnerships in URB SCHLS|A|SP 18-19
+DePaul|CSC 394|Software Projects|A|SP 18-19
 DePaul|CSC 321|Design/Analysis Algorithms|B+|WN 18-19
 DePaul|CSC 376|Distributed Systems|A|WN 18-19
 DePaul|LSP 200|Rhetoric of U.S. Feminisms|B+|WN 18-19
