@@ -16,7 +16,7 @@ Some code or courses will not be uploaded due to one or more of the following re
 * csc299 (Blockchain and Smart Contracts)
 * csc300 (Data Structures I)
 * csc301 (Data Structures II)
-* csc347 (Programming Language Concepts)
+* ~~csc347 (Programming Language Concepts)~~
 * csc348 (Intro to Compiler Design)
 * csc352 (Database Programming)
 * csc355 (Database Systems)
