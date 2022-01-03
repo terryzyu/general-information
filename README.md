@@ -1,12 +1,12 @@
 # Welcome to my Github! #
 
-I'm Terry Yu, graduated from DePaul University with a B.S. in Computer Science with a Software Development focus. Here is where I store code and what you see is what I have made publically available. You are free to use the code however you like. My résumé is also here! It's been modified to omit some personal information so if I sent you one it may look slightly different. Currently employed!
-
+I'm Terry Yu, graduated from University of Illinois Urbana-Champaign (UIUC) with an M.S. in Computer Science. My bachelors is from DePaul University with a Software Development focus. Here is where I store code and what you see is what I have made publically available. You are free to use the code however you like. My résumé is also here! It has been modified to omit some personal information so if I sent you one it may look slightly different. Currently looking for a job in SF Bay Area!
 
 Some code or courses will not be uploaded due to one or more of the following reasons.
 
 
-* I was taught git during my second year, some first year material may not be here.
+* UIUC has an academic integrity rule prohibiting me from uploading class material.
+* I was taught git during my second year of DePaul, some first year material may not be here.
 * The class only required a small amount of code rather than full assignments.
 
 
@@ -31,10 +31,18 @@ Some code or courses will not be uploaded due to one or more of the following re
 * Résumé!
 * Transcript (see below)
 
-### Transcript (Ask for formal unofficial transcript) ###
+### Transcript (Ask for formal official transcript) ###
 
-**Institution**|**Code (DePaul)**|**Name**|**Grade**|**Quarter/Year taken**
+**Institution**|**Code**|**Name**|**Grade**|**Quarter/Year taken**
 :-----:|:-----:|:-----:|:-----:|:-----:
+UIUC|CS 598|Foundations of Data Curation|A+|FA 2021
+UIUC|CS 519|Scientific Visualization|A|FA 2021
+UIUC|CS 441|Applied Machine Learning|A|FA 2021
+UIUC|CS 427|Software Engineering I|A+|FA 2021
+UIUC|CS 513|Theory & Practice of Data Cleaning|A+|SU 2021
+UIUC|CS 416|Data Visualization|A+|SU 2021
+UIUC|CS 498|Cloud Computing Applications|B+|SP 2021
+UIUC|CS 498|Internet of Things|A+|SP 2021
 DePaul|REL 109|The Jewish Experience|A|SU 18-19
 DePaul|CSC 360|Web Applications|A|SP 18-19
 DePaul|CSC 348|Intro to Compiler Design|A|SP 18-19
